@@ -44,7 +44,7 @@ body{
 #article3{
     transform: rotate(1deg);
     transform-origin: left;
-    transition: all 60s ease;
+    transition: background-color,transform 10s ease;
 }
 #article3:hover{
     transform: rotate(360deg);
